@@ -3,3 +3,6 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 ### Objective
  Goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
+
+### Datase link
+https://www.kaggle.com/c/digit-recognizer
